@@ -10,7 +10,7 @@ import sys
 try:
 	parser=argparse.ArgumentParser();
 	parser.add_argument("porcentaje_rem", help="Coloque como primer argumento el porcentaje de puntos a remover", type=float);
-	parser.add_argument("tipo estrella: ",help="Coloque el timpo de estrella con el que se va a trabajar");
+	parser.add_argument("tipo estrella: ",help="Coloque el tipo de estrella con el que se va a trabajar");
 	parser.add_argument("numero ID estrella: ", help="Coloque el número de la estrella a la que le va a remover puntos");
 	args=parser.parse_args();
 	porcentaje=float(sys.argv[1]);
