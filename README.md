@@ -1,5 +1,5 @@
 # ProyectoDeGradoFisica - PhysicsGradeProject
-## Time Series Analysis with Minimum Entropy Method:
+## Time Series Analysis with Minimum Entropy Method of Cincotta (1995):
 
 Minimum Entropy code compilation: g++ MinimaEntropia.cpp -o MinimaEntropia
 
@@ -26,4 +26,8 @@ Aliased periods of 0.5, 1, 1.5, 2... days have big values of g and f, so this va
 Contact: ja.cubillos10@uniandes.edu.co
 alejandro4cm@outlook.com
 
-#### References: Soszyński, I., Udalski, A., Szymański, M. K., et al. 2016, Acta Astronomica, 66, 131
+#### References: 
+
+#### Cincotta, P. M., Mendez, M., & Nuñez, J. A. 1995, Astrophysical Journal, 449, 231
+
+#### Soszyński, I., Udalski, A., Szymański, M. K., et al. 2016, Acta Astronomica, 66, 131
