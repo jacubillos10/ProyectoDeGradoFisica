@@ -17,6 +17,8 @@ int main(int argc, char *argv[])
 	int dimension2 = atoi(argv[5]);
 	int Finura = atoi(argv[6]);
 	int N_as = atoi(argv[7]);
+	double max_g=atof(argv[8]);
+	double max_f=atof(argv[9]);
 	int dimGrilla[2] = {dimension1,dimension2};
 	double *dirResp = new double[3];
 	std::ifstream read_file(nombre_archivo);
@@ -49,8 +51,6 @@ int main(int argc, char *argv[])
 	// Esta parte del código empieza a buscar distintos valores de entropía para cada frecuencia. 
 	double f_menor, f_mayor, entropia_raw, frecuencia;
 	double periodo[Finura+1], entropia[Finura+1], g[Finura+1], f[Finura+1];
-	double max_f=1.02;
-	double max_g=1.4;
 	f_menor=1/tp_mayor;
 	f_mayor=1/tp_menor;
 	int longitud_nombreAr=nombre_archivo.length();
