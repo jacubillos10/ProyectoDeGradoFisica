@@ -9,7 +9,7 @@ Where:
 
 0.15 1.2 are the range of periods in days in which the algorithm will search
 
-7 6 dimensions of the Grid (7 columns, 6 rows)
+7 6 dimension of the Grid (7 columns, 6 rows)
 
 100000 number of periods to search, in equally spaced frequencies. 
 
