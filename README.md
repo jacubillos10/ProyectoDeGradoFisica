@@ -3,7 +3,8 @@
 Minimum Entropy code compilation: g++ MinimaEntropia.cpp -o MinimaEntropia
 
 Minimum Entropy Usage example: ./MinimaEntropia OGLE-LMC-RRLYR-01981.dat 0.15 1.2 7 6 100000 4 1.2 1.02
-where:
+
+Where:
 0.15 1.2 are the range of periods in days in which the algorithm will search
 7 6 dimensions of the Grid (7 columns, 6 rows)
 100000 number of periods to search, in equally spaced frequencies. 
