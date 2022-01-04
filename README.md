@@ -7,6 +7,8 @@ Minimum Entropy Usage example: ./MinimaEntropia OGLE-LMC-RRLYR-01981.dat 0.15 1.
 
 Where:
 
+OGLE-LMC-RRLYR-01981.dat data file. This example is from (Udalski, 2016)
+
 0.15 1.2 are the range of periods in days in which the algorithm will search
 
 7 6 dimension of the Grid (7 columns, 6 rows)
@@ -23,3 +25,5 @@ Aliased periods of 0.5, 1, 1.5, 2... days have big values of g and f, so this va
 
 Contact: ja.cubillos10@uniandes.edu.co
 alejandro4cm@outlook.com
+
+#References: Soszyński, I., Udalski, A., Szymański, M. K., et al. 2016, Acta Astronomica, 66, 131
