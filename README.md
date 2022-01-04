@@ -20,3 +20,6 @@ Where:
 1.02 max value of f allowed. All periods with f above this value will be ignored (will have high fixed entropy, so it will be ignored)
 
 Aliased periods of 0.5, 1, 1.5, 2... days have big values of g and f, so this values "filter" bad periods. 
+
+Contact: ja.cubillos10@uniandes.edu.co
+alejandro4cm@outlook.com
