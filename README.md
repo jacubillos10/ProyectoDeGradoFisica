@@ -1,4 +1,5 @@
 # ProyectoDeGradoFisica - PhysicsGradeProject
+## Time Series Analysis with Minimum Entropy Method:
 
 Minimum Entropy code compilation: g++ MinimaEntropia.cpp -o MinimaEntropia
 
