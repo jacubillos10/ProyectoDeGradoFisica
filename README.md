@@ -1,4 +1,5 @@
 # ProyectoDeGradoFisica - PhysicsGradeProject
+## Implementation code entropy method Cincotta:
 ## Time Series Analysis with Minimum Entropy Method of Cincotta (1995):
 
 Minimum Entropy code compilation: g++ MinimaEntropia.cpp -o MinimaEntropia
